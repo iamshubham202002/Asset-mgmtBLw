@@ -19,15 +19,8 @@ A **full-stack Asset Management System** to help organizations manage department
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots![alt text](<Screenshot 2025-07-13 111134.png>) ![alt text](<Screenshot (61).png>)
 
-> _Add screenshots of your UI here!_  
-> For example:
-> 
-> ![Home Page](Gallery\C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2025-07-13 111134.png)  
-> ![Departments List](Gallery\C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot (61).png)
-
----
 
 ## ⚙️ Tech Stack
 
