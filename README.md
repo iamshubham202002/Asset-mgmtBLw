@@ -19,8 +19,9 @@ A **full-stack Asset Management System** to help organizations manage department
 
 ---
 
-## 🖼️ Screenshots![alt text](<Screenshot 2025-07-13 111134.png>) ![alt text](<Screenshot (61).png>)
+## 🖼️ Screenshots!
 
+![alt text](<Screenshot (68)-1.png>) ![alt text](<Screenshot (67)-1.png>)
 
 ## ⚙️ Tech Stack
 
